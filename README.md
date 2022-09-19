@@ -24,6 +24,6 @@
     <td align= "center">○</td>
     <td align= "center">X</td>
     <td align= "center">○</td>
-    <td align= "center">?</td>
+    <td align= "center">○</td>
   </tr>
 </table>
