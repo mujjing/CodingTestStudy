@@ -14,10 +14,13 @@ import Foundation
 //입출력 예#2
 //3은 양의 정수의 제곱이 아니므로, -1을 리턴합니다.
 
-var sqrtNum = 0
-func solution(n: Int) -> Int {
-    sqrtNum = Int(sqrt(Double(n)))
-    return sqrtNum == Int(Double(sqrtNum)) ? pow(Double(sqrtNum + 1), 2) : -1
+var sqrtNum = 0.0
+var powNum = 0.0
+func solution(n: Int64) -> Int64 {
+    sqrtNum = sqrt(Double(n)) // 제곱근 구하기
+     powNum = pow(Double(sqrtNum + 1), 2) // 제곱 구하기
+    
+    return sqrtNum == Double(Int64(sqrtNum)) ? Int64(powNum) : -1
 }
 
-solution(n: 3)
+solution(n: 5)
