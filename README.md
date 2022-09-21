@@ -8,7 +8,7 @@
 
 <table>
   <tr>
-    <td colspan="6" align= "center">결과</td>
+    <td colspan="7" align= "center">결과</td>
   </tr>
   <tr>
     <td align= "center">9월 15일</td>
@@ -17,12 +17,14 @@
     <td align= "center">9월 18일</td>
     <td align= "center">9월 19일</td>
     <td align= "center">9월 20일</td>
+    <td align= "center">9월 21일</td>
   </tr>
   <tr>
     <td align= "center">○</td>
     <td align= "center">○</td>
     <td align= "center">○</td>
     <td align= "center">X</td>
+    <td align= "center">○</td>
     <td align= "center">○</td>
     <td align= "center">○</td>
   </tr>
