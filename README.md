@@ -30,8 +30,10 @@
   </tr>
     <tr>
     <td align= "center">9월 22일</td>
+    <td align= "center">9월 23일</td>
   </tr>
   <tr>
     <td align= "center">○</td>
+    <td align= "center">?</td>
   </tr>
 </table>
