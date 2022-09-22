@@ -32,6 +32,6 @@
     <td align= "center">9월 22일</td>
   </tr>
   <tr>
-    <td align= "center">?</td>
+    <td align= "center">○</td>
   </tr>
 </table>
