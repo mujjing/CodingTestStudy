@@ -34,8 +34,10 @@
     <td align= "center">9월 24일</td>
     <td align= "center">9월 25일</td>
     <td align= "center">9월 26일</td>
+    <td align= "center">9월 27일</td>
   </tr>
   <tr>
+    <td align= "center">○</td>
     <td align= "center">○</td>
     <td align= "center">○</td>
     <td align= "center">○</td>
