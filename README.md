@@ -8,7 +8,7 @@
 
 <table>
   <tr>
-    <td colspan="7" align= "center">결과</td>
+    <td colspan="7" align= "center">진행결과 체크</td>
   </tr>
   <tr>
     <td align= "center">9월 15일</td>
