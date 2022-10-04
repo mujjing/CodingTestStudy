@@ -53,12 +53,14 @@
     <td align= "center">10월 2일</td>
     <td align= "center">10월 3일</td>
     <td align= "center">10월 4일</td>
+    <td align= "center">10월 5일</td>
   </tr>
   <tr>
     <td align= "center">○</td>
     <td align= "center">○</td>
     <td align= "center">○</td>
     <td align= "center">X</td>
+    <td align= "center">○</td>
     <td align= "center">○</td>
     <td align= "center">?</td>
   </tr>
