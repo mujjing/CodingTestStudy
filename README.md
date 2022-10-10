@@ -70,8 +70,10 @@
     <td align= "center">10월 8일</td>
     <td align= "center">10월 9일</td>
     <td align= "center">10월 10일</td>
+    <td align= "center">10월 11일</td>
   </tr>
   <tr>
+    <td align= "center">○</td>
     <td align= "center">○</td>
     <td align= "center">○</td>
     <td align= "center">○</td>
