@@ -87,10 +87,12 @@
     <td align= "center">10월 14일</td>
     <td align= "center">10월 15일</td>
     <td align= "center">10월 16일</td>
+    <td align= "center">10월 17일</td>
   </tr>
   <tr>
     <td align= "center">○</td>
     <td align= "center">X</td>
+    <td align= "center">○</td>
     <td align= "center">○</td>
     <td align= "center">?</td>
   </tr>
