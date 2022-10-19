@@ -98,6 +98,12 @@
     <td align= "center">○</td>
     <td align= "center">○</td>
     <td align= "center">○</td>
+    <td align= "center">○</td>
+  </tr>
+  <tr>
+    <td align= "center">10월 20일</td>
+  </tr>
+  <tr>
     <td align= "center">?</td>
   </tr>
 </table>
