@@ -104,9 +104,13 @@
     <td align= "center">10월 20일</td>
     <td align= "center">10월 21일</td>
     <td align= "center">10월 22일</td>
+    <td align= "center">10월 23일</td>
+    <td align= "center">10월 24일</td>
   </tr>
   <tr>
     <td align= "center">○</td>
+    <td align= "center">○</td>
+    <td align= "center">X</td>
     <td align= "center">○</td>
     <td align= "center">?</td>
   </tr>
