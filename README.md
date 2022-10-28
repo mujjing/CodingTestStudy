@@ -118,4 +118,12 @@
     <td align= "center">X</td>
     <td align= "center">X</td>
   </tr>
+    <tr>
+    <td align= "center">10월 27일</td>
+    <td align= "center">10월 28일</td>
+  </tr>
+  <tr>
+    <td align= "center">X</td>
+    <td align= "center">○</td>
+  </tr>
 </table>
